@@ -76,8 +76,8 @@ Thông tin công nghệ và phiên bản thực tế cần được đối chi�
 
 | STT | MSSV | Họ tên | Email |
 |---:|---|---|---|
-| 1 | 2300003 | Nguyễn Lê Anh Tuấn | 2300003@dlu.edu.vn |
-| 2 | 2312610 | Nguyễn Trung Hiệp | 2312610@dlu.edu.vn |
+| 1 | 2312610 | Nguyễn Trung Hiệp | 2312610@dlu.edu.vn |
+| 2 | 2300003 | Nguyễn Lê Anh Tuấn | 2300003@dlu.edu.vn |
 | 3 | 2312565 | Nguyễn Văn An | 2312565@dlu.edu.vn |
 | 4 | 2312588 | Ngô Văn Chương | 2312588@dlu.edu.vn |
 | 5 | 2312584 | Đỗ Duy Biên | 2312584@dlu.edu.vn |
